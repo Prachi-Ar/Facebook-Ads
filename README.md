@@ -9,5 +9,8 @@ I analysed the expenditure on social media advertising by politicians and partie
   
 The main findings are as follows:
   1. The Labor party lead across parties in terms of spending, followed by the Liberal Party
+  ![alt_text](party_spend.png)
   2. The electorate of Kooyong saw the highest cumulative candidate expenditure 
+  ![alt_text](division_spend.png)
   3. Labor and Greens engaged substantially more women audiences compared to the Coalition. 
+  ![alt_text](gender_impressions.png)
